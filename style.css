@@ -192,10 +192,10 @@ h4 {
       background-color: var(--light-bg-color);
       color: var(--secondary-dark-color);
 }
-..light-button {
+.light-button {
       background-color: var(--light-bg-color);
 }
-..light-button:hover {
+.light-button:hover {
       background-color: var(--secondary-dark-color);
       color: var(--white-color);
 }
